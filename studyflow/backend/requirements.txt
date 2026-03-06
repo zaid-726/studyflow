@@ -1,0 +1,8 @@
+# This is a Node.js backend.
+# Dependencies are managed via package.json in the root directory.
+# The user requested a requirements.txt file, so this file is provided to fulfill that request.
+express
+better-sqlite3
+bcryptjs
+jsonwebtoken
+cors

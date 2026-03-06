@@ -1,0 +1,5 @@
+{
+  "name": "StudyFlow",
+  "description": "An intelligent study planner that adapts to your schedule, goals, and progress. Features an AI-powered chatbot for personalized question solving, task board, Pomodoro timer, and analytics.",
+  "requestFramePermissions": []
+}
